@@ -1,0 +1,71 @@
+[
+  {
+    "name": "nesbitt.webp",
+    "kind": "Photograph",
+    "caption": "David J. Nesbitt.",
+    "credit": "JILA / University of Colorado Boulder",
+    "source": "https://www.colorado.edu/jila/david-nesbitt"
+  },
+  {
+    "name": "jila-optics.webp",
+    "kind": "Photograph",
+    "caption": "A JILA infrared frequency-comb instrument used for trace gas measurements.",
+    "credit": "JILA, via NIST",
+    "source": "https://www.nist.gov/image/combapparatusjpg"
+  },
+  {
+    "name": "group-curling.webp",
+    "kind": "Historical photograph",
+    "caption": "Members of the Nesbitt group at a curling event.",
+    "credit": "Nesbitt group, JILA / CU Boulder",
+    "source": "https://www.colorado.edu/jila/nesbitt-group-members"
+  },
+  {
+    "name": "c60-rotation.webp",
+    "kind": "Research illustration",
+    "caption": "A conceptual rendering for the study of broken ergodicity in rotating C₆₀.",
+    "credit": "Steven Burrows / JILA",
+    "source": "https://www.colorado.edu/jila/2023/08/17/new-spin-ergodicity-breaking"
+  },
+  {
+    "name": "rna-riboswitch.webp",
+    "kind": "Research illustration",
+    "caption": "An RNA riboswitch and three possible ligand interactions.",
+    "credit": "Steven Burrows / JILA",
+    "source": "https://www.colorado.edu/jila/2023/05/23/looking-cellular-switch"
+  },
+  {
+    "name": "nano-emission.webp",
+    "kind": "Research illustration",
+    "caption": "Photoelectron emission from a gold nanoshell.",
+    "credit": "Steven Burrows / JILA",
+    "source": "https://www.colorado.edu/jila/2018/06/28/electron-faucet"
+  },
+  {
+    "name": "hot-carriers.webp",
+    "kind": "Research illustration",
+    "caption": "An artist’s view of energetic charge carriers inside a gold nanoparticle.",
+    "credit": "Steven Burrows / JILA",
+    "source": "https://www.colorado.edu/jila/2023/08/16/going-gold-new-advancements-hot-carrier-science"
+  },
+  {
+    "name": "dye-prism.webp",
+    "kind": "Illustrative photograph",
+    "caption": "Two prisms expand a visible alignment beam across a dye laser’s diffraction grating.",
+    "credit": "Zaereth / Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Dual_prism_expander_and_grating_reflector_for_a_dye_laser.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Resized and converted to WebP."
+  },
+  {
+    "name": "warm-beam.webp",
+    "kind": "Illustrative photograph",
+    "caption": "A visible 589 nm alignment beam passes between mirrors in a dye laser cavity.",
+    "credit": "Zaereth / Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Dye_laser_alignment_intra-cavity_beam_@_589nm.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Resized and converted to WebP."
+  }
+]
